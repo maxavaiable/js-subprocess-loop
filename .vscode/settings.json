@@ -1,0 +1,19 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 4,
+    "prettier.tabWidth": 4,
+    "prettier.singleAttributePerLine": false,
+    "prettier.useTabs": false,
+    "prettier.trailingComma": "es5",
+    "prettier.bracketSameLine": false,
+    "prettier.bracketSpacing": false,
+    "prettier.printWidth": 200,
+    "prettier.proseWrap": "preserve",
+    "prettier.semi": true,
+    "prettier.singleQuote": false,
+    "editor.smoothScrolling": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    }
+}
