@@ -13,7 +13,7 @@
     "prettier.semi": true,
     "prettier.singleQuote": false,
     "editor.smoothScrolling": true,
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.python"
-    }
+    "workbench.tree.indent": 25,
+    "editor.quickSuggestionsDelay": 0,
+    "cSpell.language": "en,ru"
 }

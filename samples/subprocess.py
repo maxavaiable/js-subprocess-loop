@@ -1,8 +1,8 @@
 import json
 import time
-from subprocess_loop import SubprocessLoopChild
+import subprocess_loop
 
 def on_request(request):
     return request+1
 
-SubprocessLoopChild.run(on_request)
+subprocess_loop.Child.run(on_request)
