@@ -1,5 +1,3 @@
-import json
-import time
 import subprocess_loop
 
 def on_request(request):

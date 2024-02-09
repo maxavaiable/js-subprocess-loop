@@ -1,7 +1,7 @@
 {
     "type": "module",
     "name": "subprocess-loop",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "index.js",
     "author": {
         "name": "dev mx"
@@ -11,5 +11,11 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/maxavaiable/js-subprocess-loop.git"
-    }
+    },
+    "files": [
+        "LICENSE",
+        "index.js",
+        "source/",
+        "samples/"
+    ]
 }
