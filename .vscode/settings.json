@@ -8,7 +8,7 @@
     "prettier.trailingComma": "es5",
     "prettier.bracketSameLine": false,
     "prettier.bracketSpacing": false,
-    "prettier.printWidth": 200,
+    "prettier.printWidth": 100,
     "prettier.proseWrap": "preserve",
     "prettier.semi": true,
     "prettier.singleQuote": false,

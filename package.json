@@ -13,6 +13,7 @@
         "url": "https://github.com/maxavaiable/js-subprocess-loop.git"
     },
     "files": [
+        "package.json",
         "LICENSE",
         "index.js",
         "source/",

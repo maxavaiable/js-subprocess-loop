@@ -8,6 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "debug",
+            "args": ["log"],
             "program": "${workspaceFolder}\\test.js",
             "cwd": "${workspaceFolder}\\"
         }
