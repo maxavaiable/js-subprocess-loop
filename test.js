@@ -6,7 +6,7 @@ import {SubprocessLoop} from "./index.js";
 
 describe("SubprocessLoop", () => {
     test("python launch", async (t) => {
-        let sumByPy = new SubprocessLoop("sumByPy", "python", "./samples/subprocess.py");
+        let sumByPy = new SubprocessLoop("sumByPy", "python", "./samples/subprocess.py", "debug");
         sumByPy.launch();
         let result = await sumByPy.getResponse(100, 100);
         sumByPy.terminate();
